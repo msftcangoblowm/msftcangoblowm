@@ -194,11 +194,11 @@ print(badge(
 ### 🤔 PRs under review
 
 - [sphobjinv#307 sphobjinv-textconv](https://github.com/bskinn/sphobjinv/pull/307)
+- [kenobi#6 pre-compile](https://github.com/patx/kenobi/pull/6)
 
 ### 🌱 Issues awaiting approval
 
 - [nedbat/nedbat#6 venv aware Makefile](https://github.com/nedbat/nedbat/issues/6)
-- [kenobi#5 pre-compile](https://github.com/patx/kenobi/issues/5)
 
 ### 👋 Issues
 
@@ -370,7 +370,7 @@ See blog post **[Cogged GitHub profile][blog_post]** for details.
 <!-- [[[cog
     print(f"*Updated at {datetime.datetime.now():%Y-%m-%d %H:%M} UTC*")
 ]]] -->
-*Updated at 2025-02-08 09:51 UTC*
+*Updated at 2025-02-09 12:46 UTC*
 <!-- [[[end]]] -->
 
 [mastodon]: https://mastodon.social/@msftcangoblowme

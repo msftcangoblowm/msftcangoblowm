@@ -194,11 +194,8 @@ print(badge(
 ### 🤔 PRs under review
 
 - [sphobjinv#307 sphobjinv-textconv](https://github.com/bskinn/sphobjinv/pull/307)
-- [kenobi#6 pre-compile](https://github.com/patx/kenobi/pull/6)
 
 ### 🌱 Issues awaiting approval
-
-- [nedbat/nedbat#6 venv aware Makefile](https://github.com/nedbat/nedbat/issues/6)
 
 ### 👋 Issues
 
@@ -223,6 +220,7 @@ along a gradual path towards maturity.
 
 ### 😄 PRs merged
 
+- [kenobi#6 pre-compile](https://github.com/patx/kenobi/pull/6)
 - [kenobi#4 pep518 support 2025-02-07](https://github.com/patx/kenobi/pull/4)
 - [logassert#14 pep518 support 2024-01-22](https://github.com/facundobatista/logassert/pull/14)
 
@@ -370,7 +368,7 @@ See blog post **[Cogged GitHub profile][blog_post]** for details.
 <!-- [[[cog
     print(f"*Updated at {datetime.datetime.now():%Y-%m-%d %H:%M} UTC*")
 ]]] -->
-*Updated at 2025-02-09 12:46 UTC*
+*Updated at 2025-02-18 09:24 UTC*
 <!-- [[[end]]] -->
 
 [mastodon]: https://mastodon.social/@msftcangoblowme
